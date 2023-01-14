@@ -3,7 +3,7 @@
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="evancasey2002@gmail.com" title="Email Address"><code>evancasey2002@gmail.com</code></a> │ <a href="https://keybase.io/aliciasykes/pgp_keys.asc?fingerprint=0688f8d34587d954e9e51fb8fedb68f55c0283a7" title="PGP Public Key"><code>Ireland</code></a> │ <a href="https://matrix.to/#/@lissy93:matrix.org" title="Matrix User ID"><code>Persoal Website (WIP)</code></a>
+<a href="evancasey2002@gmail.com" title="Email Address"><code>evancasey2002@gmail.com</code></a> │ <a href="https://en.wikipedia.org/wiki/Ireland" title="PGP Public Key"><code>Ireland</code></a> │ <a href="WIP" title="Matrix User ID"><code>Persoal Website (WIP)</code></a>
 </p>
 <p align="center">
 <img width="500" src="https://github.com/EvanCasey13/Lissy93/blob/master/giphy.gif" />
