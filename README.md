@@ -9,21 +9,17 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/evancasey13/" title="LinkedIn - Evan Casey"><img src="https://img.shields.io/badge/-Alicia_Sykes-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://github.com/EvanCasey13" title="GitHub - @EvanCasey13"><img src="https://img.shields.io/badge/-Lissy93-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/evancasey13/" title="LinkedIn - Evan Casey"><img src="https://img.shields.io/badge/-evancasey13-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/EvanCasey13" title="GitHub - @EvanCasey13"><img src="https://img.shields.io/badge/-EvanCasey13-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
   </kbd>
 </p>
 
    
 <!-- Outer collapsible -->  
-<details>
-   <summary><b>↕️ Expand for more!</b></summary>
   
 <!-- Snek -->   
 <!-- <p align="center">
 <a href="https://gitstar-ranking.com/Lissy93" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a> -->
-</p>
-
 
 <!-- About Section -->
 <details>
@@ -56,7 +52,7 @@ I have an interest in the various areas of software development such as front-en
 **Cloud** |  [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/)[![Amazon Web Services](https://img.shields.io/static/v1?label=&message=AWS&color=4285F4&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 **Testing** | [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/)
 **Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-**Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)  [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://code.androidstudio.com/) [![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://code.intellij.com/) [![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://code.sublime.com/) [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://code.pycharm.com/)
+**Editors** | [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)  [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://code.androidstudio.com/) [![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://code.intellij.com/) [![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)](https://code.sublime.com/)
 ----      
   </p>
 </details>
