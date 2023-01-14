@@ -34,7 +34,7 @@
 
 I software engineering student currently in my final year of my course in SETU!
   
-I have an interest in the various areas of software development such as front-end and back-end, testing & databases which I have previous professional experience in. I enjoy keeping up to date on the new trends and technologies in these fields and how I can implement them in personal projects in a relevant manner to acheive excellent functionality and usability. 
+I have an interest in the various areas of software development such as front-end and back-end, testing & databases which I have previous professional experience in. I enjoy keeping up to date on the new trends and technologies in these fields and how I can implement them in personal projects in a relevant manner to achieve excellent functionality and usability. 
 
 </blockquote>
     
